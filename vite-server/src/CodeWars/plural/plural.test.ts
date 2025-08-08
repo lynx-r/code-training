@@ -1,6 +1,6 @@
 // sum.test.js
 import { assert, describe, it } from "vitest";
-import * as solution from "./plural.js";
+import * as solution from "./soluton";
 
 describe("solution", function () {
   it("BasicTests", function () {
